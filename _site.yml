@@ -1,4 +1,4 @@
-name: "My Name"
+name: "Matthew"
 navbar:
   title: "My Site"
   left:
@@ -8,9 +8,9 @@ navbar:
       href: portfolio.html
   right: 
     - icon: fa-envelope fa-lg
-      href: mailto:<your@email.com>
+      href: mailto:<mndauber@gmail.com>
     - icon: fa-github fa-lg
-      href: http://github.com/USERNAME/
+      href: http://github.com/mndauber/
     - icon: fa-linkedin fa-lg
-      href: http://linkedin.com/USERNAME
+      href: http://linkedin.com/mndauber
       

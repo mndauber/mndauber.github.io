@@ -17,7 +17,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 - <i class="fa fa-chart-line"> </i> [Project 1: Description](https://www.github.com)
 
-    - Longer Description
+    - Longer oogly boogly
 
 <br>
 
